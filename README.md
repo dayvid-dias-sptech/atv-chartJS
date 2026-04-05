@@ -1,28 +1,50 @@
-# Dashboard com Chart.js
+# 📊 Dashboard com Chart.js
 
-## 📊 Descrição
-Este projeto consiste na criação de uma dashboard simples utilizando a biblioteca Chart.js. A página exibe diferentes tipos de gráficos para representar dados de forma visual e organizada.
+## 📌 Visão Geral
+Este projeto apresenta uma dashboard simples desenvolvida com **Chart.js**, exibindo dois gráficos para visualização de dados: um gráfico de barras e um gráfico de linha.
+
+A proposta é demonstrar, de forma prática, como utilizar a biblioteca para construir visualizações básicas no navegador.
+
+---
 
 ## 🛠️ Tecnologias Utilizadas
-- HTML
-- CSS
-- JavaScript
-- Chart.js (via CDN)
+- HTML5  
+- CSS3  
+- JavaScript  
+- Chart.js (CDN)
 
-## 📈 Funcionalidades
-- Exibição de gráficos dinâmicos
-- Utilização de diferentes tipos de gráficos:
-  - Gráfico de barras
-  - Gráfico de linha
-  - Gráfico de pizza
-- Layout simples em formato de dashboard
+---
+
+## 📈 Gráficos Implementados
+
+- **Gráfico de Barras**  
+  Representa a variação mensal de temperatura média e umidade.
+
+- **Gráfico de Linha**  
+  Mostra a variação de temperatura e umidade ao longo do dia.
+
+---
+
+## 🎯 Objetivo
+Aplicar conceitos básicos de:
+- Estruturação de páginas web  
+- Manipulação de gráficos com JavaScript  
+- Organização visual de dados  
+
+---
 
 ## ▶️ Como Executar
-1. Baixe os arquivos do projeto
-2. Abra o arquivo `index.html` em um navegador
+1. Faça o download ou clone do repositório  
+2. Abra o arquivo `index.html` em qualquer navegador moderno  
+
+---
 
 ## 📚 Sobre o Chart.js
-Chart.js é uma biblioteca JavaScript que permite criar gráficos de forma simples e rápida, utilizando o elemento `<canvas>` do HTML.
+O **Chart.js** é uma biblioteca JavaScript leve e fácil de usar para criação de gráficos utilizando o elemento `<canvas>` do HTML.
 
-## 📌 Observação
-Os dados apresentados são fictícios e utilizados apenas para fins de aprendizado.
+---
+
+## 📌 Observações
+- Os dados utilizados são fictícios  
+- Projeto com foco educacional  
+- Estrutura simples, ideal para iniciantes  
